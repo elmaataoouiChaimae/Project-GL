@@ -11,3 +11,12 @@ je dois:
 -- Gérer des problèmes liés aux comptes d'utilisateurs, tels que les réinitialisations de mot de passe et les demandes d'assistance.  
 -- Gérer les commandes dès la réservation jusqu'à la livraison.  
 
+### En tant qu’utilisateur:  
+
+--En tant que représentant le laboratoire je doit:  
+--Faire la gestion des médicaments.  
+--Passer des commandes de médicaments et suivre l’état du stock.  
+--Obtenir des informations complètes sur les médicaments.  
+--Suivi des données et des performances .  
+--Communiquer avec les pharmacies et les professionnels de la santé .  
+
