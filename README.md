@@ -1,28 +1,26 @@
 # Application_Medicale
 ## Product Backlog
+### Sprint 1
 
-### En tant qu’admin 
-je veux gérer les comptes d'utilisateurs pour les pharmacies, les personnes ordinaires et les laboratoires
+#### En tant qu’admin 
+gérer les comptes d'utilisateurs pour les pharmacies, les personnes ordinaires et les laboratoires.
 
-### En tant qu'administrateur:
-je dois:  
--- Contrôler des autorisations d'accès et des niveaux de privilège pour chaque type d'utilisateur.  
--- Suivre des activités des utilisateurs, comme la gestion des comptes, les connexions, etc.  
--- Gérer des problèmes liés aux comptes d'utilisateurs, tels que les réinitialisations de mot de passe et les demandes d'assistance.  
--- Gérer les commandes dès la réservation jusqu'à la livraison.  
 
-### En tant qu’utilisateur:  
 
---En tant que représentant le laboratoire je doit:  
---Faire la gestion des médicaments.  
---Passer des commandes de médicaments et suivre l’état du stock.  
---Obtenir des informations complètes sur les médicaments.  
---Suivi des données et des performances .  
---Communiquer avec les pharmacies et les professionnels de la santé .  
+#### En tant qu'administrateur:
+je veux pouvoir gérer les informations des laboratoires, y compris leur nom, leur adresse et leurs produits associés.
 
-### En tant que fournisseur  
-#### je dois s’authentifier à l’application pour:  
---Gérer le stock  
---Préparer une facture  
---Passer la commande au livreur
+#### En tant que pharmacien:  
+
+je dois voir une liste  des produits disponible chez le fournisseur .  
+
+#### En tant que fournisseur  
+
+je dois: 
+Répondre aux demandes de renseignements des pharmacies concernant les produits, les prix, les disponibilités, etc.  
+Échanger des informations avec les pharmacies sur les commandes, les délais de livraison, les conditions de paiement, etc.  
+Fournir un support aux pharmacies en cas de problèmes avec les commandes, les produits ou les factures.  
+Émission et envoi des factures aux pharmacies pour les produits fournis.  
+Suivi des paiements et gestion des conditions de paiement convenues.  
+Gestion des retours de produits et des remboursements si nécessaire.   
 
