@@ -24,6 +24,5 @@ je dois:
 --Suivi des paiements et gestion des conditions de paiement convenues.  
 --Gestion des retours de produits et des remboursements si nécessaire.   
 
-### Sprint 2
 
 
