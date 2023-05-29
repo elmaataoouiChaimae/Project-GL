@@ -17,10 +17,10 @@ je dois voir une liste  des produits disponible chez le fournisseur .
 #### En tant que fournisseur  
 
 je dois: 
-Répondre aux demandes de renseignements des pharmacies concernant les produits, les prix, les disponibilités, etc.  
-Échanger des informations avec les pharmacies sur les commandes, les délais de livraison, les conditions de paiement, etc.  
-Fournir un support aux pharmacies en cas de problèmes avec les commandes, les produits ou les factures.  
-Émission et envoi des factures aux pharmacies pour les produits fournis.  
-Suivi des paiements et gestion des conditions de paiement convenues.  
-Gestion des retours de produits et des remboursements si nécessaire.   
+--Répondre aux demandes de renseignements des pharmacies concernant les produits, les prix, les disponibilités, etc.  
+--Échanger des informations avec les pharmacies sur les commandes, les délais de livraison, les conditions de paiement, etc.  
+--Fournir un support aux pharmacies en cas de problèmes avec les commandes, les produits ou les factures.  
+--Émission et envoi des factures aux pharmacies pour les produits fournis.  
+--Suivi des paiements et gestion des conditions de paiement convenues.  
+--Gestion des retours de produits et des remboursements si nécessaire.   
 
