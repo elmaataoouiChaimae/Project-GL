@@ -16,7 +16,7 @@ je dois voir une liste  des produits disponible chez le fournisseur .
 
 #### En tant que fournisseur  
 
-je dois: 
+je dois:  
 --Répondre aux demandes de renseignements des pharmacies concernant les produits, les prix, les disponibilités, etc.  
 --Échanger des informations avec les pharmacies sur les commandes, les délais de livraison, les conditions de paiement, etc.  
 --Fournir un support aux pharmacies en cas de problèmes avec les commandes, les produits ou les factures.  
