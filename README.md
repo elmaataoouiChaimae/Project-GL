@@ -20,3 +20,9 @@ je dois:
 --Suivi des données et des performances .  
 --Communiquer avec les pharmacies et les professionnels de la santé .  
 
+### En tant que fournisseur  
+#### je dois s’authentifier à l’application pour:  
+--Gérer le stock  
+--Préparer une facture  
+--Passer la commande au livreur
+
